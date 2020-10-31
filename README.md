@@ -35,11 +35,11 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/N59ZdcfwDP.gif' title='Video Walkthrough6' width='' alt='Video Walkthrough6' />
 
 ## Comments
-Regarding the last functionality (adding comment), although I've coded exactly as Tim did (I think), when I try adding a comment by pressing the simulator keyboard, the app gets terminated with the weird error that says "Thread 1: EXC_BAD_ACCESS (code=2, address=0x7ffeecabea20)". 
+When I first submitted the assignment, I submitted the wrong GIthub url. (Oct 30, 11:59PM PST)
 
-I'm doing troubleshootings and trying to resolve this error. TAs are helping me out as well.
+So I've submitted it again with the correct url. (Oct 31, 12:22AM PST)
 
-I'll update the final version of the project when I get the error resolved.
+Please consider this one as the final submission for this assignment. Thank you!
 
 # Parstagram - Part I
 
